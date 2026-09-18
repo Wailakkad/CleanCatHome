@@ -1,0 +1,5 @@
+# Clean Cat Home - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://cleancathome.com/sitemap.xml

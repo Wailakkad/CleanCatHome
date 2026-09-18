@@ -1,0 +1,35 @@
+export const siteConfig = {
+  name: 'Clean Cat Home',
+  tagline: 'Practical ideas for happier cats and cleaner homes.',
+  shortDescription: 'Simple solutions for cat litter, odors, grooming, indoor enrichment, and stylish cat-friendly homes.',
+  url: 'https://cleancathome.com',
+  email: 'hello@cleancathome.com',
+  author: 'Editorial Team at Clean Cat Home',
+  socials: {
+    pinterest: 'https://pinterest.com/cleancathome',
+    instagram: 'https://instagram.com/cleancathome',
+  },
+  primaryNav: [
+    { label: 'Cleaning', href: '/category/cleaning' },
+    { label: 'Cat Home', href: '/category/cat-home' },
+    { label: 'Cat Care', href: '/category/cat-care' },
+    { label: 'Cat Rooms', href: '/category/cat-room-ideas' },
+    { label: 'Cat Furniture', href: '/category/cat-furniture' },
+  ],
+  footerCategories: [
+    { label: 'Cleaning & Odor Removal', href: '/category/cat-odor-removal' },
+    { label: 'Litter Box Care', href: '/category/cat-litter-box' },
+    { label: 'Cat-Friendly Home', href: '/category/cat-home' },
+    { label: 'Cat Grooming & Hair', href: '/category/cat-grooming' },
+    { label: 'Indoor Enrichment', href: '/category/indoor-cat-enrichment' },
+    { label: 'Cat Room Ideas', href: '/category/cat-room-ideas' },
+    { label: 'Modern Cat Furniture', href: '/category/cat-furniture' },
+  ],
+  footerCompany: [
+    { label: 'About Us', href: '/about' },
+    { label: 'Contact', href: '/contact' },
+    { label: 'Privacy Policy', href: '/privacy-policy' },
+    { label: 'Terms of Service', href: '/terms' },
+    { label: 'Editorial & Pet Disclaimer', href: '/disclaimer' },
+  ],
+};

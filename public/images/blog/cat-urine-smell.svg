@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF7F2" />
+      <stop offset="100%" stop-color="#EFEAE1" />
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#5C554B" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bgGrad1)" />
+  
+  <!-- Architectural Room Lines -->
+  <line x1="160" y1="120" x2="160" y2="720" stroke="#E3DCD1" stroke-width="1.5" stroke-dasharray="6 6" />
+  <line x1="160" y1="560" x2="1080" y2="560" stroke="#DCD4C7" stroke-width="2" />
+  <circle cx="880" cy="340" r="220" fill="#E8E2D6" opacity="0.6" />
+  <rect x="700" y="440" width="340" height="120" rx="16" fill="#DDD5C6" opacity="0.8" />
+  
+  <!-- Stylized Vase & Plant -->
+  <path d="M780 440 C780 380 810 360 810 330 C810 300 790 300 790 300 L830 300 C830 300 810 300 810 330 C810 360 840 380 840 440 Z" fill="#9E7B56" opacity="0.7" />
+  <path d="M810 300 Q780 230 750 210 Q790 240 810 300 Q830 220 870 190 Q840 240 810 300" fill="none" stroke="#5A705E" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Stylized Resting Cat Silhouette -->
+  <path d="M900 440 C890 410 920 390 945 400 C965 410 985 415 1010 425 C1025 432 1025 440 990 440 Z" fill="#3D3A35" opacity="0.85" />
+  <polygon points="915,400 925,378 933,403" fill="#3D3A35" opacity="0.85" />
+  <polygon points="937,404 947,380 955,407" fill="#3D3A35" opacity="0.85" />
+
+  <!-- Editorial Card Block -->
+  <g filter="url(#softShadow)">
+    <rect x="220" y="240" width="520" height="340" rx="20" fill="#FFFFFF" />
+    <rect x="260" y="280" width="160" height="30" rx="6" fill="#FDF3EF" />
+    <text x="340" y="300" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#B9593E" text-anchor="middle" letter-spacing="1.5">CAT ODOR REMOVAL</text>
+    
+    <text x="260" y="360" font-family="'Playfair Display', serif" font-size="34" font-weight="600" fill="#252422" letter-spacing="-0.5">How to Get Rid of</text>
+    <text x="260" y="405" font-family="'Playfair Display', serif" font-size="34" font-weight="600" fill="#252422" letter-spacing="-0.5">Cat Urine Smell</text>
+    
+    <text x="260" y="460" font-family="'Plus Jakarta Sans', sans-serif" font-size="15" fill="#6B655B">Practical biological cleaning tips to break down uric</text>
+    <text x="260" y="485" font-family="'Plus Jakarta Sans', sans-serif" font-size="15" fill="#6B655B">acid crystals permanently without harsh fumes.</text>
+    
+    <line x1="260" y1="525" x2="680" y2="525" stroke="#F0EBE1" stroke-width="1.5" />
+    <circle cx="275" cy="548" r="4" fill="#5A705E" />
+    <text x="290" y="552" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="500" fill="#4A453E">Clean Cat Home Editorial Guide • 8 Min Read</text>
+  </g>
+</svg>

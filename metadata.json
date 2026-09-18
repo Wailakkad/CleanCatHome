@@ -1,0 +1,6 @@
+{
+  "name": "Clean Cat Home",
+  "description": "Practical cat care, cleaning, odor removal, litter box tips, grooming guides, and stylish cat-friendly home ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
