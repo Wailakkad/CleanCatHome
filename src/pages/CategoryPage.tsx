@@ -8,6 +8,7 @@ import { Breadcrumbs } from '../components/common/Breadcrumbs';
 import { ArticleCard } from '../components/blog/ArticleCard';
 import { FeaturedArticle } from '../components/blog/FeaturedArticle';
 import { AdSlot } from '../components/common/AdSlot';
+import { NativeAd } from '../components/common/NativeAd';
 import {
   ArrowRight,
   Sparkles,
@@ -170,6 +171,8 @@ export const CategoryPage: React.FC = () => {
             </div>
           </section>
         )}
+
+        <NativeAd />
 
         {/* Common Questions & FAQs for this Category (Section 44 Requirement) */}
         {category.commonQuestions && category.commonQuestions.length > 0 && (

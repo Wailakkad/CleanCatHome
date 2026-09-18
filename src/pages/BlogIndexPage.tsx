@@ -5,6 +5,7 @@ import { ArticleCard } from '../components/blog/ArticleCard';
 import { SearchBar } from '../components/search/SearchBar';
 import { Breadcrumbs } from '../components/common/Breadcrumbs';
 import { AdSlot } from '../components/common/AdSlot';
+import { NativeAd } from '../components/common/NativeAd';
 import { articles } from '../data/articles';
 import { siteConfig } from '../data/site';
 import { Filter, SlidersHorizontal } from 'lucide-react';
@@ -208,6 +209,8 @@ export const BlogIndexPage: React.FC = () => {
             </button>
           </div>
         )}
+
+        <NativeAd />
 
         <AdSlot position="bottom" />
       </div>

@@ -1,11 +1,10 @@
 import React, { useEffect, useRef } from 'react';
 
-export interface AdSlotProps {
-  position: 'top' | 'in-content' | 'sidebar' | 'bottom';
+export interface SidebarAdProps {
   className?: string;
 }
 
-export const AdSlot: React.FC<AdSlotProps> = ({ position, className = '' }) => {
+export const SidebarAd: React.FC<SidebarAdProps> = ({ className = '' }) => {
   const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -13,26 +12,23 @@ export const AdSlot: React.FC<AdSlotProps> = ({ position, className = '' }) => {
 
     const container = containerRef.current;
 
-    // Clear previous ad content on re-render
     container.innerHTML = '';
 
-    // Create atOptions script
     const optionsScript = document.createElement('script');
     optionsScript.type = 'text/javascript';
     optionsScript.innerHTML = `
       atOptions = {
-        'key' : '35ca7d4cb09682d3d824f0ac410e70fd',
+        'key' : '37ba92d70b93e6e5ba1c9c684f32f21a',
         'format' : 'iframe',
-        'height' : 250,
-        'width' : 300,
+        'height' : 300,
+        'width' : 160,
         'params' : {}
       };
     `;
     container.appendChild(optionsScript);
 
-    // Create invoke script
     const invokeScript = document.createElement('script');
-    invokeScript.src = 'https://www.highrevenueformat.com/35ca7d4cb09682d3d824f0ac410e70fd/invoke.js';
+    invokeScript.src = 'https://www.highrevenueformat.com/37ba92d70b93e6e5ba1c9c684f32f21a/invoke.js';
     invokeScript.async = true;
     container.appendChild(invokeScript);
 
@@ -44,8 +40,8 @@ export const AdSlot: React.FC<AdSlotProps> = ({ position, className = '' }) => {
   return (
     <div
       ref={containerRef}
-      aria-label={`Advertisement - ${position}`}
-      className={`w-full flex justify-center my-6 ${className}`}
+      aria-label="Sidebar advertisement"
+      className={`w-full flex justify-center ${className}`}
     />
   );
 };

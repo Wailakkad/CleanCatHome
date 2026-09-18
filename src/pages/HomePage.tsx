@@ -6,6 +6,7 @@ import { FeaturedArticle } from '../components/blog/FeaturedArticle';
 import { CategoryCard } from '../components/blog/CategoryCard';
 import { NewsletterSection } from '../components/blog/NewsletterSection';
 import { AdSlot } from '../components/common/AdSlot';
+import { NativeAd } from '../components/common/NativeAd';
 import { articles } from '../data/articles';
 import { siteConfig } from '../data/site';
 import {
@@ -432,6 +433,8 @@ export const HomePage: React.FC = () => {
             ))}
           </div>
         </section>
+
+        <NativeAd />
 
         {/* Newsletter section */}
         <NewsletterSection />

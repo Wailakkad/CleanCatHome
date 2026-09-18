@@ -16,6 +16,8 @@ import { ReadingProgressBar } from '../components/blog/ReadingProgressBar';
 import { RelatedArticles } from '../components/blog/RelatedArticles';
 import { NewsletterSection } from '../components/blog/NewsletterSection';
 import { AdSlot } from '../components/common/AdSlot';
+import { NativeAd } from '../components/common/NativeAd';
+import { SidebarAd } from '../components/common/SidebarAd';
 import {
   Clock,
   Calendar,
@@ -260,6 +262,11 @@ export const ArticleDetailPage: React.FC = () => {
               onScrollToSteps={scrollToSteps}
             />
 
+            {/* Native Ad - After article content */}
+            <div className="print:hidden">
+              <NativeAd />
+            </div>
+
             {/* In-content Mid Ad Slot */}
             <div className="print:hidden">
               <AdSlot position="in-content" />
@@ -423,7 +430,8 @@ export const ArticleDetailPage: React.FC = () => {
                   </div>
                 )}
 
-                {/* Sidebar Ad Slot */}
+                {/* Sidebar Ads */}
+                <SidebarAd />
                 <AdSlot position="sidebar" />
               </div>
             )}
