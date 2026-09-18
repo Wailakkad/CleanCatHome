@@ -95,7 +95,7 @@ export const ArticleDetailPage: React.FC = () => {
       name: siteConfig.name,
       logo: {
         '@type': 'ImageObject',
-        url: `${siteConfig.url}/favicon.ico`,
+        url: `${siteConfig.url}/favicon.svg`,
       },
     },
   };
