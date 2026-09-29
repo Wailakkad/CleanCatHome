@@ -1807,4 +1807,124 @@ export const articleImagePrompts: Record<string, ArticleImagePromptSet> = {
       },
     ],
   },
+
+  // 13. OUTDOOR CAT HOUSE FOR WINTER DIY
+  'outdoor-cat-house-for-winter-diy': {
+    articleTitle: 'Outdoor Cat House for Winter DIY: 11 Warm & Weatherproof Ideas',
+    slug: 'outdoor-cat-house-for-winter-diy',
+    folder: '/images/blog/outdoor-cat-house-winter/',
+    pinterestImage: {
+      filename: 'pin-01.webp',
+      aspectRatio: '2:3',
+      width: 1000,
+      height: 1500,
+      prompt:
+        'Vertical 2:3 Pinterest editorial photograph of a DIY outdoor cat house for winter on a raised wooden platform in a quiet snowy backyard, insulated wooden shelter with a small protected entrance, realistic healthy cat resting near the door, light frost and bare winter trees, soft morning daylight, Scandinavian Japandi home-and-garden aesthetic, warm cream and light oak tones, clean negative space at the top for editorial text overlay, no text, no watermark.',
+    },
+    cover: {
+      role: 'cover',
+      filename: 'cover.webp',
+      alt: 'Outdoor cat house for winter DIY with insulated shelter in snowy backyard',
+      caption:
+        'A raised, weatherproof DIY shelter gives an outdoor cat a dry place to wait out the coldest months.',
+      aspectRatio: '16:10',
+      width: 1600,
+      height: 1000,
+      prompt:
+        'Premium editorial lifestyle photograph of a DIY outdoor cat house for winter in a stylish backyard, compact insulated wooden shelter raised slightly above the ground, warm natural wood, waterproof dark roof, small protected entrance, realistic fluffy cat resting near the shelter, light snow on the surrounding ground, winter trees in background, Scandinavian Japandi home aesthetic, warm cream and light oak tones, natural winter daylight, realistic photography, sophisticated home and garden magazine style, highly detailed, clean composition, no text, no watermark. Landscape 16:10 composition suitable for a blog hero image.',
+      negativePrompt: standardNegativePrompt,
+    },
+    supporting: [
+      {
+        id: 'raised-shelter',
+        role: 'step-1',
+        filename: 'raised-shelter.webp',
+        alt: 'Raised outdoor cat shelter protecting a cat house from cold wet ground',
+        caption:
+          'Lifting the base even a few inches keeps melting snow and damp ground from chilling the sleeping area.',
+        section: 'diy-outdoor-cat-house-ideas',
+        aspectRatio: '3:2',
+        width: 1200,
+        height: 800,
+        prompt:
+          'Close-up realistic photograph of a compact outdoor cat shelter raised on a sturdy wooden platform above damp winter ground, simple weatherproof structure, realistic cat shelter design, subtle snow and moisture around the base, warm natural wood, Scandinavian minimalist outdoor aesthetic, soft daylight, premium home magazine photography, no text, no watermark, landscape 3:2.',
+        negativePrompt: standardNegativePrompt,
+      },
+      {
+        id: 'straw-bedding',
+        role: 'step-2',
+        filename: 'straw-bedding.webp',
+        alt: 'Dry straw bedding inside an outdoor winter cat shelter',
+        caption:
+          'Dry straw lets a cat burrow and holds far less moisture than towels, blankets, or hay.',
+        section: 'diy-outdoor-cat-house-ideas',
+        aspectRatio: '3:2',
+        width: 1200,
+        height: 800,
+        prompt:
+          'Photorealistic interior view of a small insulated outdoor cat shelter filled with clean dry golden straw, realistic cat curled comfortably inside, enclosed cozy sleeping space, natural wood walls, warm soft daylight entering through small entrance, winter atmosphere outside, premium Scandinavian editorial photography, extremely realistic texture, no text, no watermark, landscape 3:2.',
+        negativePrompt: standardNegativePrompt,
+      },
+      {
+        id: 'enclosed-insulation',
+        role: 'step-3',
+        filename: 'enclosed-insulation.webp',
+        alt: 'Insulated outdoor cat house showing enclosed wall insulation',
+        caption:
+          'Insulation only works when it stays sealed inside the walls and completely out of the cat\u2019s reach.',
+        section: 'diy-outdoor-cat-house-ideas',
+        aspectRatio: '3:2',
+        width: 1200,
+        height: 800,
+        prompt:
+          'Professional educational cutaway-style realistic visualization of a compact outdoor cat shelter showing the construction layers, weather-resistant exterior wood, fully enclosed rigid insulation inside the walls, protected interior sleeping area with dry straw, safe cat-sized entrance, clean realistic materials, sophisticated architectural product photography aesthetic, neutral cream and natural wood palette, no labels, no text, no watermark, landscape 3:2.',
+        negativePrompt: standardNegativePrompt,
+      },
+      {
+        id: 'protected-location',
+        role: 'prevention',
+        filename: 'protected-location.webp',
+        alt: 'Outdoor cat shelter placed in a protected backyard corner away from wind',
+        caption:
+          'A sheltered corner beside a fence or wall blocks prevailing wind before it ever reaches the entrance.',
+        section: 'where-to-put-shelter',
+        aspectRatio: '3:2',
+        width: 1200,
+        height: 800,
+        prompt:
+          'Photorealistic winter backyard showing a small stylish outdoor cat shelter placed in a protected corner beside a wooden fence and house wall, entrance facing away from open wind, subtle snow, dry ground, realistic cat approaching shelter, Scandinavian Japandi landscaping, warm neutral colors, natural daylight, premium editorial home photography, no text, no watermark, landscape 3:2.',
+        negativePrompt: standardNegativePrompt,
+      },
+      {
+        id: 'bedding-mistakes',
+        role: 'problem',
+        filename: 'bedding-mistakes.webp',
+        alt: 'Outdoor cat shelter materials showing dry straw and unsuitable wet bedding examples',
+        caption:
+          'Dry straw works; damp hay, soaked towels, and exposed insulation all make a winter shelter colder.',
+        section: 'what-not-to-put',
+        aspectRatio: '3:2',
+        width: 1200,
+        height: 800,
+        prompt:
+          'Clean premium educational still-life photograph showing an outdoor cat shelter setup with dry straw as the correct bedding and visibly wet unsuitable fabric bedding placed separately outside the shelter, enclosed insulation visible only as part of a protected construction example, realistic outdoor winter setting, sophisticated Scandinavian editorial style, clear visual comparison without labels or text, no watermark, landscape 3:2.',
+        negativePrompt: standardNegativePrompt,
+      },
+      {
+        id: 'finished-shelter',
+        role: 'final-result',
+        filename: 'finished-shelter.webp',
+        alt: 'Cat sleeping inside a warm DIY outdoor winter shelter',
+        caption:
+          'The finished goal: a dry, stable, wind-protected spot where an outdoor cat can sleep through a cold night.',
+        section: 'final-thoughts',
+        aspectRatio: '3:2',
+        width: 1200,
+        height: 800,
+        prompt:
+          'Beautiful photorealistic scene of a realistic cat comfortably sleeping inside a compact insulated outdoor winter shelter, dry straw bedding, warm natural wood interior, small protected entrance, snowy winter landscape softly visible outside, cozy but realistic atmosphere, Scandinavian Japandi aesthetic, premium pet and home editorial photography, natural lighting, sharp detailed textures, no text, no watermark, landscape 3:2.',
+        negativePrompt: standardNegativePrompt,
+      },
+    ],
+  },
 };

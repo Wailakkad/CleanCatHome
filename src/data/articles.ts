@@ -1071,6 +1071,528 @@ const rawArticles: Omit<Article, 'images' | 'pinterestImage'>[] = [
       <p class="mb-4">From feline-safe houseplants and secure window screens to quiet basecamp isolation rooms, here is what you need for day one.</p>
     `,
   },
+  {
+    id: 'art-013',
+    slug: 'outdoor-cat-house-for-winter-diy',
+    title: 'Outdoor Cat House for Winter DIY: 11 Warm & Weatherproof Ideas',
+    seoTitle: 'Outdoor Cat House for Winter DIY: 11 Warm & Weatherproof Ideas',
+    metaDescription:
+      'Build a warm outdoor cat house for winter with simple materials. Learn how to insulate it, choose the right bedding, protect it from wind and rain, and avoid common DIY mistakes.',
+    category: 'Cat Home',
+    categorySlug: 'cat-home',
+    tags: [
+      'Outdoor Cat House',
+      'Winter Cat Shelter',
+      'DIY Cat Shelter',
+      'Cat Shelter Build',
+      'Feral Cat Care',
+    ],
+    keywords: [
+      'outdoor cat house for winter diy',
+      'diy insulated cat house',
+      'outdoor cat house diy',
+      'diy cat house outdoor',
+      'outdoor cat shelter',
+      'winter cat shelter',
+      'feral cat shelter',
+      'diy cat shelter',
+      'insulated cat house',
+    ],
+    excerpt:
+      'When temperatures drop, an outdoor cat needs a shelter that does more than simply provide a roof.',
+    author: defaultAuthor,
+    date: 'September 29, 2026',
+    datePublished: '2026-09-29',
+    dateModified: '2026-09-29',
+    lastReviewed: 'September 29, 2026',
+    contentVersion: 1,
+    readingTime: '10 min read',
+    featuredImage: '/images/blog/outdoor-cat-house-winter/cover.webp',
+    imageAlt: 'Outdoor cat house for winter DIY with insulated shelter in snowy backyard',
+    isFeatured: false,
+    isPopularProblem: false,
+    sectionTheme: 'cat-home',
+    relatedArticles: [
+      'modern-cat-furniture-ideas',
+      'cat-wall-ideas-for-small-spaces',
+      'small-cat-room-ideas-for-apartments',
+      'indoor-cat-enrichment-ideas',
+    ],
+    quickAnswer: {
+      summary:
+        'A working winter shelter is small, raised off the ground, waterproof and lined with dry straw — not blankets.',
+      detail:
+        'Build it from a plastic storage bin, a foam cooler or a small wooden box, seal rigid insulation inside the walls where the cat can never reach it, cut a small entrance that faces away from the wind, and set the whole shelter on a stable raised platform.',
+      nextText: 'The 11 DIY ideas, the full build plan and the winter checklist are below...',
+    },
+    toc: [
+      {
+        id: 'what-makes-a-good-winter-shelter',
+        text: 'What Makes a Good Winter Cat Shelter?',
+        level: 2,
+      },
+      {
+        id: 'diy-outdoor-cat-house-ideas',
+        text: '11 DIY Outdoor Cat House Ideas for Winter',
+        level: 2,
+      },
+      {
+        id: 'easiest-diy-step-by-step',
+        text: 'Easiest DIY Outdoor Cat House: Step-by-Step',
+        level: 2,
+      },
+      {
+        id: 'what-not-to-put',
+        text: 'What NOT to Put in an Outdoor Winter Cat House',
+        level: 2,
+      },
+      {
+        id: 'make-shelter-weatherproof',
+        text: 'How to Make an Outdoor Cat Shelter More Weatherproof',
+        level: 2,
+      },
+      {
+        id: 'where-to-put-shelter',
+        text: 'Where Should You Put an Outdoor Cat Shelter?',
+        level: 2,
+      },
+      {
+        id: 'cat-does-not-use-shelter',
+        text: 'What If a Cat Does Not Use the Shelter?',
+        level: 2,
+      },
+      {
+        id: 'winter-shelter-checklist',
+        text: 'Outdoor Winter Cat Shelter Checklist',
+        level: 2,
+      },
+      {
+        id: 'frequently-asked-questions',
+        text: 'Frequently Asked Questions',
+        level: 2,
+      },
+      { id: 'final-thoughts', text: 'Final Thoughts', level: 2 },
+    ],
+    content: `
+      <p class="mb-5">
+        A good <strong>outdoor cat house for winter DIY</strong> project should help keep the shelter dry, block wind, reduce exposure to cold ground, and give the cat a protected place to rest.
+      </p>
+
+      <p class="mb-5">
+        The good news is that a winter shelter does not have to be complicated or expensive. A plastic storage bin, foam insulation, a few simple tools, and dry straw can be enough to create a practical <strong>winter cat shelter</strong>.
+      </p>
+
+      <p class="mb-6">
+        In this guide, you'll learn what makes an outdoor shelter work in cold weather, 11 simple DIY ideas, how to build an insulated shelter step by step, what materials to avoid, and how to position the shelter for better protection.
+      </p>
+
+      <h2 id="what-makes-a-good-winter-shelter" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        What Makes a Good Winter Cat Shelter?
+      </h2>
+
+      <p class="mb-5">Before building anything, focus on the basic job the shelter needs to do.</p>
+      <p class="mb-5">A useful outdoor shelter should:</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">1. Keep the inside dry</h3>
+      <p class="mb-5">Rain, melting snow, and moisture can make a shelter much colder.</p>
+      <p class="mb-5">The roof and walls should protect the sleeping area from precipitation, while the entrance should be positioned so rain and wind are less likely to enter.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">2. Block cold wind</h3>
+      <p class="mb-5">Wind can quickly make an outdoor shelter uncomfortable.</p>
+      <p class="mb-5">Place the entrance away from the direction of the strongest prevailing wind when possible. A sheltered location next to a wall, fence, porch, or other structure can provide additional protection.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">3. Stay off the ground</h3>
+      <p class="mb-5">Cold and wet ground can transfer moisture and cold into the shelter.</p>
+      <p class="mb-5">Raising the shelter slightly on a stable platform, pallet, bricks, or another secure base can help keep the bottom away from wet ground.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">4. Be appropriately sized</h3>
+      <p class="mb-5">A shelter does not need to be huge.</p>
+      <p class="mb-5">An oversized shelter can allow more cold air to circulate inside. The sleeping space should be large enough for the cat or cats using it without creating unnecessary empty space.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">5. Use moisture-resistant bedding</h3>
+      <p class="mb-5">For an outdoor shelter, bedding matters.</p>
+      <p class="my-6 p-4 sm:p-5 rounded-xl bg-[#F2F6F3] border border-[#CFDFD3] text-[#2B382E] font-semibold leading-relaxed">
+        Straw is generally preferred over hay or fabric bedding for outdoor shelters because it handles moisture better.
+      </p>
+      <p class="mb-5">Avoid materials that can become damp and remain wet inside the shelter.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">6. Be easy to inspect</h3>
+      <p class="mb-5">You should be able to check the shelter regularly.</p>
+      <p class="mb-3">Look for:</p>
+      <ul class="space-y-3 my-6 list-disc list-inside text-[#3E3A34]">
+        <li>Water leaks</li>
+        <li>Wet bedding</li>
+        <li>Snow blocking the entrance</li>
+        <li>Damaged insulation</li>
+        <li>Loose parts</li>
+        <li>Signs of pests</li>
+        <li>Any structural damage</li>
+      </ul>
+      <p class="mb-5">Regular checks are especially important after heavy rain, snow, or strong wind.</p>
+
+      <h2 id="diy-outdoor-cat-house-ideas" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        11 DIY Outdoor Cat House Ideas for Winter
+      </h2>
+
+      <p class="mb-5">You do not need to build a complicated wooden house from scratch.</p>
+      <p class="mb-6">Here are 11 practical ideas you can combine depending on your materials, space, and weather conditions.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">1. Double-Bin Cat Shelter</h3>
+      <p class="mb-5">One of the simplest approaches is using two plastic storage containers.</p>
+      <p class="mb-5">The smaller container creates the sleeping area while the larger container provides an outer protective shell.</p>
+      <p class="mb-5">Add insulation between the two layers where appropriate, then fill the sleeping area with dry straw.</p>
+      <p class="mb-5">This creates a simple <strong>diy insulated cat house</strong> without requiring advanced woodworking skills.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">2. Insulated Cooler Shelter</h3>
+      <p class="mb-5">A large foam cooler can be converted into a basic outdoor shelter.</p>
+      <p class="mb-5">Foam naturally provides insulation, making the cooler useful as a starting point.</p>
+      <p class="mb-5">Create an appropriately sized entrance, add dry straw, and place the shelter somewhere protected from wind and precipitation.</p>
+      <p class="mb-5">Make sure the structure is stable and cannot easily tip or move.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">3. Small Wooden Winter Shelter</h3>
+      <p class="mb-5">If you are comfortable with basic woodworking, a <a href="/blog/modern-cat-furniture-ideas" class="text-[#B9593E] underline underline-offset-2 hover:text-[#8F6D48] transition-colors">small wooden shelter</a> can provide a more permanent solution.</p>
+      <p class="mb-4">Use weather-resistant construction and focus on:</p>
+      <ul class="space-y-3 my-6 list-disc list-inside text-[#3E3A34]">
+        <li>A waterproof roof</li>
+        <li>Raised flooring</li>
+        <li>Protected walls</li>
+        <li>A cat-sized entrance</li>
+        <li>Safe enclosed insulation</li>
+      </ul>
+      <p class="mb-5">The interior should remain simple and easy to clean or inspect.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">4. Raise the Shelter Above the Ground</h3>
+      <p class="mb-5">Even a well-built shelter can become less useful if it sits directly on wet or frozen ground.</p>
+      <p class="mb-5">Place it on a stable raised platform.</p>
+      <p class="mb-3">The base should be:</p>
+      <ul class="space-y-3 my-6 list-disc list-inside text-[#3E3A34]">
+        <li>Level</li>
+        <li>Stable</li>
+        <li>Dry</li>
+        <li>Strong enough to support the shelter</li>
+      </ul>
+      <p class="mb-5">Avoid unstable stacks that could shift when a cat enters or exits.</p>
+      <img-slot id="raised-shelter"></img-slot>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">5. Use a Smaller, Protected Entrance</h3>
+      <p class="mb-5">A large doorway lets more cold air enter.</p>
+      <p class="mb-5">A smaller entrance can help create a more protected sleeping space.</p>
+      <p class="mb-5">As a general guide, many outdoor-cat shelter designs use an entrance around 6&#8211;8 inches, but the appropriate size depends on the cats using the shelter.</p>
+      <p class="mb-5">The entrance should allow the cat to enter and exit comfortably without being unnecessarily large.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">6. Create a Wind-Blocking Entrance</h3>
+      <p class="mb-5">Instead of pointing the entrance directly into an open yard, orient it toward a protected direction.</p>
+      <p class="mb-5">You can also use the surrounding environment to create a natural windbreak.</p>
+      <p class="mb-5">A nearby wall, fence, porch, or other structure can help reduce direct exposure.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">7. Use Straw for Bedding</h3>
+      <p class="mb-5">For outdoor shelters, dry straw is a practical bedding material.</p>
+      <p class="mb-5">Straw allows cats to burrow into it and is better suited to outdoor conditions than materials that hold moisture.</p>
+      <p class="mb-5">Do not confuse straw with hay.</p>
+      <p class="mb-5">Hay is primarily animal feed and can absorb moisture and become moldy.</p>
+      <p class="mb-5">Replace wet or dirty bedding when necessary.</p>
+      <img-slot id="straw-bedding"></img-slot>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">8. Protect the Roof From Rain and Snow</h3>
+      <p class="mb-5">The roof should shed water away from the entrance and sleeping area.</p>
+      <p class="mb-5">A slightly sloped waterproof roof can help prevent water from collecting on top.</p>
+      <p class="mb-5">After heavy snow, check the roof and entrance and remove accumulated snow when necessary.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">9. Keep Insulation Enclosed</h3>
+      <p class="mb-5">Insulation can help reduce heat loss, but exposed insulation should not be left accessible to cats.</p>
+      <p class="mb-5">If foam or another insulation material is used, make sure it is properly enclosed within the shelter structure.</p>
+      <p class="mb-5">The cat should not be able to scratch, chew, or sleep directly against exposed insulation.</p>
+      <img-slot id="enclosed-insulation"></img-slot>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">10. Choose the Right Location</h3>
+      <p class="mb-5">The location can make a major difference.</p>
+      <p class="mb-3">Look for a place that is:</p>
+      <ul class="space-y-3 my-6 list-disc list-inside text-[#3E3A34]">
+        <li>Protected from strong wind</li>
+        <li>Away from standing water</li>
+        <li>Not directly exposed to heavy rain</li>
+        <li>Close to where the cat already spends time</li>
+        <li>Easy for you to access and inspect</li>
+      </ul>
+      <p class="mb-5">A good shelter in a bad location can still become cold and wet.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">11. Check It After Bad Weather</h3>
+      <p class="mb-5">Your work does not end when the shelter is built.</p>
+      <p class="mb-5">After strong rain, snow, or wind, inspect the shelter.</p>
+      <p class="mb-3">Check:</p>
+      <ul class="space-y-3 my-6 list-disc list-inside text-[#3E3A34]">
+        <li>Is the bedding dry?</li>
+        <li>Is the entrance clear?</li>
+        <li>Is the roof intact?</li>
+        <li>Has the shelter shifted?</li>
+        <li>Is water getting inside?</li>
+        <li>Is the insulation still enclosed?</li>
+      </ul>
+      <p class="mb-5">A quick inspection can help keep the shelter usable throughout winter.</p>
+
+      <h2 id="easiest-diy-step-by-step" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        Easiest DIY Outdoor Cat House: Step-by-Step
+      </h2>
+
+      <p class="mb-5">If you want a simple project that does not require advanced woodworking, a double-container shelter is a practical option.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Materials</h3>
+      <p class="mb-3">You can start with:</p>
+      <ul class="space-y-3 my-6 list-disc list-inside text-[#3E3A34]">
+        <li>One large plastic storage bin</li>
+        <li>One smaller container that fits inside</li>
+        <li>Dry straw</li>
+        <li>Suitable rigid insulation</li>
+        <li>Marker</li>
+        <li>Cutting tool</li>
+        <li>Optional waterproofing materials</li>
+        <li>A stable raised platform</li>
+      </ul>
+      <p class="mb-5">The exact materials can vary depending on the design.</p>
+
+      <h3 id="step-one" class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Step 1: Plan the Entrance</h3>
+      <p class="mb-5">Before cutting anything, decide where the entrance should go.</p>
+      <p class="mb-5">Keep it appropriately sized for the cat using the shelter.</p>
+      <p class="mb-5">Position the entrance so it is protected from direct wind and rain when possible.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Step 2: Mark the Opening</h3>
+      <p class="mb-5">Use a marker to outline the entrance.</p>
+      <p class="mb-5">Check the position carefully before cutting.</p>
+      <p class="mb-5">The opening should be large enough for the cat to enter and exit comfortably but should not be unnecessarily large.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Step 3: Cut the Entrance Carefully</h3>
+      <p class="mb-5">Cut the opening according to your container's material.</p>
+      <p class="mb-5">Smooth or cover sharp edges so they cannot injure the cat.</p>
+      <p class="mb-5">If the container has a lid, make sure it remains secure after the opening is created.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Step 4: Add the Insulation</h3>
+      <p class="mb-5">If your design uses insulation between the inner and outer containers, install it so the material is completely enclosed.</p>
+      <p class="mb-5">The cat should never have direct access to exposed insulation.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Step 5: Add Dry Straw</h3>
+      <p class="mb-5">Place a generous layer of dry straw inside the sleeping area.</p>
+      <p class="mb-5">The cat should be able to move and burrow comfortably.</p>
+      <p class="mb-5">Avoid adding wet or damp material.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Step 6: Secure the Shelter</h3>
+      <p class="mb-5">Place the shelter on a stable raised platform.</p>
+      <p class="mb-5">Make sure it cannot easily tip, slide, or blow over.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Step 7: Protect the Entrance</h3>
+      <p class="mb-5">Orient the entrance away from direct wind and heavy rain.</p>
+      <p class="mb-5">If your design includes a simple entrance tunnel or wind-blocking arrangement, make sure the cat can still enter and exit easily.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Step 8: Test the Location</h3>
+      <p class="mb-5">Before considering the project finished, look at the shelter from the outside.</p>
+      <p class="mb-3">Ask:</p>
+      <ul class="space-y-3 my-6 list-disc list-inside text-[#3E3A34]">
+        <li>Is rain likely to enter?</li>
+        <li>Is the entrance facing strong wind?</li>
+        <li>Could water collect underneath?</li>
+        <li>Could the shelter move during strong weather?</li>
+        <li>Can I easily inspect it?</li>
+      </ul>
+      <p class="mb-5">Make adjustments before the coldest weather arrives.</p>
+
+      <h2 id="what-not-to-put" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        What NOT to Put in an Outdoor Winter Cat House
+      </h2>
+
+      <p class="mb-5">Choosing the wrong bedding or construction materials can make an outdoor shelter less useful.</p>
+      <img-slot id="bedding-mistakes"></img-slot>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Avoid hay</h3>
+      <p class="mb-5">Hay can absorb moisture and may become damp or moldy.</p>
+      <p class="mb-5">For outdoor cat shelters, dry straw is generally recommended instead.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Avoid towels and cotton blankets</h3>
+      <p class="mb-5">Fabric bedding can absorb moisture.</p>
+      <p class="mb-5">Once wet, it can become cold and uncomfortable rather than providing useful insulation.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Avoid exposed insulation</h3>
+      <p class="mb-5">Foam or other insulation materials should not be accessible to the cat.</p>
+      <p class="mb-5">Enclose insulation inside the walls or structure.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Avoid an oversized shelter</h3>
+      <p class="mb-5">A huge empty shelter may be harder for a cat to keep warm.</p>
+      <p class="mb-5">Build the sleeping area around the needs of the cats using it.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Avoid an unstable shelter</h3>
+      <p class="mb-5">Do not place the shelter somewhere it can easily tip, slide, or collapse.</p>
+      <p class="mb-5">A stable base is especially important in windy winter weather.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Avoid an exposed entrance</h3>
+      <p class="mb-5">A doorway facing directly into strong wind or rain can make the shelter much less effective.</p>
+
+      <h2 id="make-shelter-weatherproof" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        How to Make an Outdoor Cat Shelter More Weatherproof
+      </h2>
+
+      <p class="mb-5">A few small changes can make a basic shelter much more practical.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Protect the ground</h3>
+      <p class="mb-5">Raise the shelter above wet or frozen ground.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Protect the walls</h3>
+      <p class="mb-5">Use materials that can handle outdoor conditions and keep insulation enclosed.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Protect the roof</h3>
+      <p class="mb-5">The roof should prevent rain and snow from entering the sleeping area.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Protect the entrance</h3>
+      <p class="mb-5">Position the entrance away from direct wind.</p>
+      <p class="mb-5">A sheltered entrance can help reduce drafts.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Keep the interior dry</h3>
+      <p class="mb-5">Check the bedding regularly.</p>
+      <p class="mb-5">If straw becomes wet, replace it with fresh, dry straw.</p>
+
+      <h2 id="where-to-put-shelter" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        Where Should You Put an Outdoor Cat Shelter?
+      </h2>
+
+      <p class="mb-5">The best location depends on the environment around your home.</p>
+      <p class="mb-5">Look for a naturally protected area.</p>
+      <p class="mb-3">For example, a shelter may work well near:</p>
+      <ul class="space-y-3 my-6 list-disc list-inside text-[#3E3A34]">
+        <li>A covered porch</li>
+        <li>A wall</li>
+        <li>A fence</li>
+        <li>A protected corner</li>
+        <li>An existing outdoor structure</li>
+      </ul>
+      <p class="mb-5">Avoid areas where rainwater collects.</p>
+      <p class="mb-5">Also avoid placing the entrance directly toward the strongest wind.</p>
+      <p class="mb-5">The shelter should be easy for the cat to find and easy for you to inspect.</p>
+      <img-slot id="protected-location"></img-slot>
+
+      <h2 id="cat-does-not-use-shelter" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        What If a Cat Does Not Use the Shelter?
+      </h2>
+
+      <p class="mb-5">Sometimes a perfectly good shelter is simply ignored.</p>
+      <p class="mb-5">That does not necessarily mean the shelter is badly designed.</p>
+      <p class="mb-5">Try making small changes.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Move it closer to the cat's preferred area</h3>
+      <p class="mb-5">Cats may prefer a location they already know.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Check the bedding</h3>
+      <p class="mb-5">Make sure the straw is dry and clean.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Check for moisture</h3>
+      <p class="mb-5">A small leak or damp floor can make the shelter unattractive.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Change the entrance direction</h3>
+      <p class="mb-5">Try orienting the entrance away from wind or toward a more familiar area.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Consider providing another shelter</h3>
+      <p class="mb-5">If multiple outdoor cats use the area, more than one shelter may be useful.</p>
+
+      <h2 id="winter-shelter-checklist" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        Outdoor Winter Cat Shelter Checklist
+      </h2>
+
+      <p class="mb-4">Before winter weather arrives, check each item:</p>
+      <div class="my-6 p-5 sm:p-6 rounded-2xl bg-[#F8F6F1] border border-[#E2DAD0]">
+        <ul class="space-y-3">
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Shelter is raised above the ground</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Roof is waterproof</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Walls are protected from rain and wind</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Entrance is appropriately sized</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Entrance faces away from strong wind</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Interior is dry</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Bedding is dry straw</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>No exposed insulation is accessible</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Shelter is stable</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Water cannot easily collect underneath</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Entrance can be checked after snow</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Roof can be inspected after storms</span>
+          </li>
+          <li class="flex items-start gap-3 text-[15px] text-[#332F2A]">
+            <span class="flex-shrink-0 w-4 h-4 mt-1 rounded border border-[#B7AD9E] bg-white"></span>
+            <span>Bedding can be replaced easily</span>
+          </li>
+        </ul>
+      </div>
+
+      <h2 id="frequently-asked-questions" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        Frequently Asked Questions
+      </h2>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">What is the best bedding for an outdoor cat shelter in winter?</h3>
+      <p class="mb-5">Dry straw is commonly recommended for outdoor cat shelters because it is better suited to damp outdoor conditions than fabric bedding.</p>
+      <p class="mb-5">Replace bedding if it becomes wet or dirty.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">How big should an outdoor cat house be?</h3>
+      <p class="mb-5">The shelter should be large enough for the cat or cats using it without being unnecessarily oversized.</p>
+      <p class="mb-5">A smaller protected sleeping area can help reduce unnecessary air circulation inside the shelter.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Should an outdoor cat shelter be raised off the ground?</h3>
+      <p class="mb-5">Yes. Raising the shelter can help protect the sleeping area from cold, damp ground and standing water.</p>
+      <p class="mb-5">Use a stable platform that will not tip or shift.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Can I use blankets in an outdoor cat house?</h3>
+      <p class="mb-5">Outdoor fabric bedding can absorb moisture and become cold when wet.</p>
+      <p class="mb-5">For an exposed outdoor shelter, dry straw is generally a more suitable option.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">How do I keep rain out of a DIY cat shelter?</h3>
+      <p class="mb-5">Start with a waterproof roof and position the entrance away from direct rain and wind.</p>
+      <p class="mb-5">Place the shelter somewhere naturally protected whenever possible.</p>
+
+      <h3 class="text-xl md:text-2xl font-serif text-[#252422] font-semibold mt-8 mb-3 tracking-tight">Can I use a plastic storage bin as an outdoor cat house?</h3>
+      <p class="mb-5">Yes. A plastic storage bin can be used as the outer structure of a simple DIY shelter.</p>
+      <p class="mb-5">The important factors are proper sizing, a safe entrance, insulation that is inaccessible to the cat, dry bedding, stability, and protection from wind and rain.</p>
+      <img-slot id="finished-shelter"></img-slot>
+
+      <h2 id="final-thoughts" class="text-2xl md:text-3xl font-serif text-[#252422] font-semibold mt-12 mb-6 tracking-tight">
+        Final Thoughts
+      </h2>
+
+      <p class="mb-5">A good <strong>outdoor cat house for winter DIY</strong> project does not have to be complicated.</p>
+      <p class="mb-4">The most important things are simple:</p>
+      <p class="my-6 p-5 rounded-xl bg-[#F2F6F3] border border-[#CFDFD3] text-[#252422] leading-loose">
+        <strong>Keep it dry.<br>Block the wind.<br>Raise it off the ground.<br>Use safe enclosed insulation.<br>Use dry straw.<br>Keep the entrance appropriately sized.<br>Choose a protected location.<br>Check the shelter regularly.</strong>
+      </p>
+      <p class="mb-5">Whether you build a simple double-bin shelter, use a foam cooler, or create a <a href="/blog/modern-cat-furniture-ideas" class="text-[#B9593E] underline underline-offset-2 hover:text-[#8F6D48] transition-colors">more permanent wooden structure</a>, the goal is the same: create a dry, protected, stable place where an outdoor cat can escape harsh winter weather.</p>
+      <p class="mb-5">Start with the basics, test the shelter before the coldest weather arrives, and inspect it regularly throughout the season.</p>
+    `,
+  },
 ];
 
 export const articles: Article[] = rawArticles.map((raw) => {
