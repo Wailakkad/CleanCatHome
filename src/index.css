@@ -22,6 +22,16 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Inside-the-Kit feature card images (Winter Shelter Kit landing page) */
+.inside-kit-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem; /* match card rounding */
+  margin-bottom: 1rem;
+  object-fit: cover;
+}
+
 /* Custom subtle scrollbar */
 ::-webkit-scrollbar {
   width: 8px;

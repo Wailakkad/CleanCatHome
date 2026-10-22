@@ -12,6 +12,7 @@ export const siteConfig = {
   primaryNav: [
     { label: 'Cleaning', href: '/category/cleaning' },
     { label: 'Cat Home', href: '/category/cat-home' },
+    { label: 'Winter Shelter Kit', href: '/winter-cat-shelter-starter-kit' },
     { label: 'Cat Care', href: '/category/cat-care' },
     { label: 'Cat Rooms', href: '/category/cat-room-ideas' },
     { label: 'Cat Furniture', href: '/category/cat-furniture' },

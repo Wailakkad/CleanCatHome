@@ -11,6 +11,7 @@ import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage';
 import { TermsPage } from './pages/TermsPage';
 import { DisclaimerPage } from './pages/DisclaimerPage';
 import { NotFoundPage } from './pages/NotFoundPage';
+import { WinterCatShelterStarterKit } from './pages/WinterCatShelterStarterKit';
 
 export default function App() {
   return (
@@ -27,6 +28,7 @@ export default function App() {
           <Route path="privacy-policy" element={<PrivacyPolicyPage />} />
           <Route path="terms" element={<TermsPage />} />
           <Route path="disclaimer" element={<DisclaimerPage />} />
+          <Route path="winter-cat-shelter-starter-kit" element={<WinterCatShelterStarterKit />} />
           <Route path="*" element={<NotFoundPage />} />
         </Route>
       </Routes>
